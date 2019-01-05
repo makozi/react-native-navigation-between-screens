@@ -5,7 +5,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-v0.55-blue.svg)](https://facebook.github.io/react-native/)
 
 
-Facebook Messenger Implementation using react-native. Check it out on [expo.io](https://snack.expo.io/@makozi/react-native-navigate-between-screens)
+React Native Navigation Between Screens using react-native. Check it out on [expo.io](https://snack.expo.io/@makozi/react-native-navigate-between-screens)
 
 
 ## Prerequisites
