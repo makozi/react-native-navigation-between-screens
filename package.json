@@ -2,7 +2,7 @@
   "name": "react-native-navigate-between-screens",
   "version": "0.0.0",
   "description": "Navigating Between Screens or Activities Using React Navigation Library",
-  "author": null,
+  "author": "Marizu-Ibewiro Makozi",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
