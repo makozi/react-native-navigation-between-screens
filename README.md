@@ -25,8 +25,7 @@ Facebook Messenger Implementation using react-native. Check it out on [expo.io](
   * On Android:
     * Run `react-native run-android`
   * On iOS:
-    * Open `ios/Messenger.xcodeproj` in Xcode
-    * Hit `Run` after selecting the desired device
+    * Run `react-native run-ios`
 7. Enjoy!!!
 
 
